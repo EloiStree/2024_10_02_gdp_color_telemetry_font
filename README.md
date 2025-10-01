@@ -15,7 +15,7 @@ By default, the font encodes **Timestamp, Position, and Rotation**. It can suppo
 
 ### Why a font?
 
-Many games allow modding that can draw pixels, but most can display colored text more easily. By using colored text, you can export in-game data—like position, rotation, or Lua-generated colored text—from almost any game.
+Many games don't allow modding that can draw pixels, but most can display colored text more easily. By using colored text, you can export in-game data—like position, rotation, or Lua-generated colored text.
 
 #### Examples:
 
